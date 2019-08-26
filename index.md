@@ -1,8 +1,8 @@
-## Portfolio
+## EricaArdianSampleMIS480Portfolio
 
 ---
 
-### Category Name 1 
+### Construction/ Import/Export
 
 [Persepolis](/sample_page)
 <img src="images/PersepolisFactory.png?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Telecomms/Export
 
 - [PersepolisTiles](http://www.persepolistile.ir/pages/about-us)
 - [SilkNet](http://silknet.com/?language=en)
